@@ -1,16 +1,17 @@
--- Copyright (c) 2025 Sky-Stars-Air-Yaxcess
--- Author: Star_Space_Galaxy
--- Repository: https://github.com/Sky-Stars-Air-Yaxcess/Game-Guardian-Script-Field-Hook
+-- Copyright (c) 2025 Sky-Stars-Air-Yaxcess My YouTube Channel Star_Space_Galaxy Channel 2 Star_Space_Local_Yaxcess
+-- Repository GitHub: https://github.com/Sky-Stars-Air-Yaxcess/Game-Guardian-Script-Field-Hook
 -- License: GNU General Public License v3.0 (GPL-3.0)
--- Do not remove this header. All rights reserved under GPL v3.0.
+-- Do not remove this header. All rights reserved under GNU General Public License v3.0 (GPL-3.0) and Copyright violation (c) 2025
 
-gg.toast('Author Script My YouTube Channel Star_Space_Galaxy')
-gg.toast('Author Script My GitHub Sky-Stars-Air-Yaxcess')
-gg.toast('My GitHub Sky-Stars-Yaxcess')
-gg.toast('My YouTube 2 Channel Star_Space_Local_Yaxcess')
+-- My Connact for Gmail y8068723@gmail.com.
 
+gg.toast(' Script by: My YouTube Channel Star_Space_Galaxy')
+gg.sleep(600)
+gg.toast('Script by: My GitHub Sky-Stars-Air-Yaxcess')
 
-userMode = 1 -- 1 = Developer mode, 2 = user mode script
+userMode = 1 --1 = Developer mode, 2 = user mode script. 
+
+-- Better download the update from my github!
 
 local function safeUpdate()
     local localVer = 4
