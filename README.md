@@ -11,3 +11,8 @@ My Connact for Gmail y8068723@gmail.com
 This method script was created for educational purposes only. Users are solely responsible for how they use it. We respect developers and urge them to fix vulnerabilities. Our goal is not to cause harm, but to promote fair and secure gameplay!
 
 It only works on Unity il2cpp 64-bit builds where you can dump the game!
+
+
+for clown 👇
+
+I haven't stolen any code or script from anyone. That's not true. It's possible that what they're doing is a coincidence—the search and editing of a string in Game Guardian—if you have seen that somewhere else.
